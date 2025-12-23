@@ -22,7 +22,7 @@ Data Analyst | Machine Learning Enthusiast | Power BI & Python Developer
 - **Web Apps:** Streamlit, Flask
 - **Databases:** MySQL
 - **Version Control:** Git & GitHub
-- 
+  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
@@ -37,7 +37,7 @@ Data Analyst | Machine Learning Enthusiast | Power BI & Python Developer
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shahfaisal3102&show_icons=true&theme=radical" />
 </div>
 
@@ -45,7 +45,7 @@ Data Analyst | Machine Learning Enthusiast | Power BI & Python Developer
 
 ### 🤝 Let’s Connect
 
-<p align="center">
+<p align="left">
   <a href="www.linkedin.com/in/shah-faisal-khan-882965235"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shahfaisal3102@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
