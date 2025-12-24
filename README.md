@@ -35,14 +35,6 @@ Data Analyst | Machine Learning Enthusiast | Power BI & Python Developer
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahfaisal3102&show_icons=true&theme=radical" />
-</div>
-
----
-
 ### 🤝 Let’s Connect
 
 <p align="left">
