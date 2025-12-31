@@ -1,6 +1,6 @@
 # Shah Faisal Khan
 
-Data Analyst | Machine Learning Enthusiast | Power BI & Python Developer
+Data Analyst | Machine Learning Enthusiast | Power BI 
 
 ---
 
@@ -11,15 +11,16 @@ Data Analyst | Machine Learning Enthusiast | Power BI & Python Developer
 - 💼 Passionate about Data Analysis, Visualization & ML
 - 💡 Love turning data into actionable insights
 - 🔭 Currently building real-world dashboards, analytics tools, and ML projects
+- Working on **Frappe** And **ERP Next** for making management based applications
 
 ---
 
 ### 🧠 Skills & Tools
 
-- **Programming:** Python (NumPy, Pandas, Matplotlib)
+- **Programming:** Python (NumPy, Pandas, Matplotlib, Scikit Learn)
 - **Data Analysis:** Excel, SQL, Power BI, Tableau
 - **Machine Learning:** Logistic Regression, Random Forest, XGBoost
-- **Web Apps:** Streamlit, Flask
+- **Web Apps:** Streamlit, Flask, Frappe framework
 - **Databases:** MySQL
 - **Version Control:** Git & GitHub
   
