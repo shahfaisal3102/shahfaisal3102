@@ -19,7 +19,7 @@ Data Analyst | Machine Learning Enthusiast | Power BI
 
 - **Programming:** Python (NumPy, Pandas, Matplotlib, Scikit Learn)
 - **Data Analysis:** Excel, SQL, Power BI, Tableau
-- **Machine Learning:** Logistic Regression, Random Forest, XGBoost
+- **Machine Learning:** Supervised Learning, Unsupervised Learning, Ensemble Learning, NLP
 - **Web Apps:** Streamlit, Flask, Frappe framework
 - **Databases:** MySQL
 - **Version Control:** Git & GitHub
